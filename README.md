@@ -5,7 +5,7 @@ Best free MCBE automod base.
 
 
 Features
-| **FAC**                                   | ⚡ Fairplay Open Src ⚡ | 🗡️ Fairplay AC 🗡️ | 🐢 Realmbot.dev 🐢 |
+| **FAC**                                   | ⚡ FAC ⚡ | 🗡️ FAC ac 🗡️ | 🐢 Realmbot.dev 🐢 |
 | ------------------------------------------ | ----------------------- | ------------ | ---------------------- |
 | Open source                                | ✅                      | ❌           | ❌                    |
 | Free                                       | ✅                      | ✅           | ❌                    |
