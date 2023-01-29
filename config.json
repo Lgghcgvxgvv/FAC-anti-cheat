@@ -1,0 +1,16 @@
+{
+    "realmcode": "Realmcode",
+    "key": "Fairplay Auth key",
+    "bannedtime": 10hours,
+    "bannedgames": [
+        "Minecraft for Windows",
+        "Minecraft Launcher",
+        "Minecraft for Android",
+        "Minecraft for Kindle Fire"
+    ],
+    "mingames": 1min,
+    "webhook": "Discord Webhook",
+    "gamerscore": 400,
+    "friends": ,
+    "followers": 40
+}
