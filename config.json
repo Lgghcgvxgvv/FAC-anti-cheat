@@ -1,16 +1,16 @@
 {
-    "realmcode": "Realmcode",
-    "key": "Fairplay Auth key",
-    "bannedtime": 10hours,
+    "realmcode": "Ztg4jciXJbw",
+    "key": "f9ea3e67e839afc1de2166897a311£5d",
+    "bannedtime": 1,
     "bannedgames": [
         "Minecraft for Windows",
         "Minecraft Launcher",
         "Minecraft for Android",
         "Minecraft for Kindle Fire"
     ],
-    "mingames": 1min,
-    "webhook": "Discord Webhook",
-    "gamerscore": 400,
-    "friends": ,
-    "followers": 40
+    "mingames": 1,
+    "webhook": "https://discord.com/api/webhooks/1070128488939528333/avsS8PnK_KelZf7uc49lZgFjmAgFm-eOrqZAsN6zPuKn5KhQFg3Ra7wsRmQFjyty8cMp",
+    "gamerscore": 666,
+    "friends": 10,
+    "followers": 100
 }
